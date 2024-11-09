@@ -1,0 +1,12 @@
+transformers
+pillow
+tensor
+torch
+torchaudio
+streamlit
+speechrecognition
+openai
+sounddevice
+numpy
+easyocr
+pydub
