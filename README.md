@@ -13,6 +13,8 @@ This repository hosts an AI-powered assistant that can process and respond to us
 
 This application can be deployed on **Hugging Face Spaces** or **locally** on your machine.
 
+## Usage
+![Screenshot (3)](https://github.com/user-attachments/assets/93e10310-29db-4445-975f-a918e956ab78)
 
 ## Installation
 
@@ -36,9 +38,6 @@ This application can be deployed on **Hugging Face Spaces** or **locally** on yo
    - `easyocr`: For image-to-text recognition.
    - `torch`, `torchaudio`, `sounddevice`, `numpy`: For handling data and model operations.
 
-## Usage
-![Screenshot (3)](https://github.com/user-attachments/assets/93e10310-29db-4445-975f-a918e956ab78)
-![Screenshot (3)](https://github.com/user-attachments/assets/082d6c04-585d-4ba6-bead-14f4c578de3f)
 
 ### Run the Application
 Run the app using Streamlit:
